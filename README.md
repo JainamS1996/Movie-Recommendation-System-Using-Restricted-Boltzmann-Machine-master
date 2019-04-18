@@ -1,4 +1,4 @@
-#Recommendation System using Restricted Boltzmann Machine for Collaborative Filtering
+# Recommendation System using Restricted Boltzmann Machine for Collaborative Filtering
 
 Introduced a class of two-layer undirected graphical models (RBM’s), suitable for modeling tabular or count data, and presented efficient learning and inference procedures for this class of models.
 
